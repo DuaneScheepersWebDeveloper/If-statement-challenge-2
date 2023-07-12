@@ -1,0 +1,15 @@
+C:\C# Masterclass course\If-statement-challenge-2\bin\Debug\net6.0\If-statement-challenge-2.exe
+C:\C# Masterclass course\If-statement-challenge-2\bin\Debug\net6.0\If-statement-challenge-2.deps.json
+C:\C# Masterclass course\If-statement-challenge-2\bin\Debug\net6.0\If-statement-challenge-2.runtimeconfig.json
+C:\C# Masterclass course\If-statement-challenge-2\bin\Debug\net6.0\If-statement-challenge-2.dll
+C:\C# Masterclass course\If-statement-challenge-2\bin\Debug\net6.0\If-statement-challenge-2.pdb
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.csproj.AssemblyReference.cache
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.AssemblyInfoInputs.cache
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.AssemblyInfo.cs
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.csproj.CoreCompileInputs.cache
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.dll
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\refint\If-statement-challenge-2.dll
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.pdb
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\If-statement-challenge-2.genruntimeconfig.cache
+C:\C# Masterclass course\If-statement-challenge-2\obj\Debug\net6.0\ref\If-statement-challenge-2.dll
